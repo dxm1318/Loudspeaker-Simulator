@@ -1,6 +1,6 @@
 # Loudspeaker Simulator
 
-A MATLAB App Designer application for modeling and predicting loudspeaker performance in sealed (closed-box) enclosures using Thiele-Small parameters.
+A MATLAB App Designer application for modeling and predicting loudspeaker performance in sealed (closed-box) enclosures using Thiele-Small parameters. To see the code, download the raw file. 
 
 ## Overview
 
